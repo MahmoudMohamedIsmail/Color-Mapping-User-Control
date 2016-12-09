@@ -1,0 +1,7 @@
+c:\users\mahmoud\documents\visual studio 2013\Projects\Color Mapping\Color Mapping\bin\Debug\Color Mapping.dll
+c:\users\mahmoud\documents\visual studio 2013\Projects\Color Mapping\Color Mapping\bin\Debug\Color Mapping.pdb
+c:\users\mahmoud\documents\visual studio 2013\Projects\Color Mapping\Color Mapping\obj\Debug\Color Mapping.csprojResolveAssemblyReference.cache
+c:\users\mahmoud\documents\visual studio 2013\Projects\Color Mapping\Color Mapping\obj\Debug\Color_Mapping.UserControl1.resources
+c:\users\mahmoud\documents\visual studio 2013\Projects\Color Mapping\Color Mapping\obj\Debug\Color Mapping.csproj.GenerateResource.Cache
+c:\users\mahmoud\documents\visual studio 2013\Projects\Color Mapping\Color Mapping\obj\Debug\Color Mapping.dll
+c:\users\mahmoud\documents\visual studio 2013\Projects\Color Mapping\Color Mapping\obj\Debug\Color Mapping.pdb
